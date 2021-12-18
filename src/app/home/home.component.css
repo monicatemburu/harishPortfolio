@@ -1,0 +1,23 @@
+#home{
+    background: url('https://images.pexels.com/photos/5808425/pexels-photo-5808425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    -webkit-background-size: 100%; 
+    -moz-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
+     
+}
+.fab{
+    background-color: rgb(212, 214, 58);
+    width: 80px;
+    -moz-border-radius: 70px; 
+   -webkit-border-radius: 70px; 
+   border-radius: 70px;
+    
+}

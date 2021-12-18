@@ -1,0 +1,15 @@
+.navbar{
+    color: rgba(236, 235, 225, 0.548);
+    background-color: rgb(85, 85, 22);
+  
+  }
+  .list-item-active {
+    color: #f2f5f7 !important;
+    border-radius: 15px;
+    
+  }
+  .nav-item:hover{
+    background-color: rgb(241, 232, 232);
+    border-radius: 15px;
+
+  }
